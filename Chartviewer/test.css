@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f6f6f6;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.09);
+}
+h1 {
+    text-align: center;
+    margin-bottom: 24px;
+}
+select {
+    margin-bottom: 20px;
+    font-size: 12px;
+}
+#viewSelect {
+    align-items: center;
+    width: 20%;
+    padding: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+table {
+    width: 100%;
+    margin-top: 18px;
+    text-align: left;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 24px;
+}
